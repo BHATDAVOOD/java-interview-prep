@@ -41,7 +41,7 @@ The `src` directory contains the main source code.
 To use this project, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/BHATDAVOOD/java-interview-app.git
+git clone https://github.com/BHATDAVOOD/java-interview-prep.git
 
 2. Import the project into your favorite Java IDE (e.g., IntelliJ, Eclipse).
 3. Navigate to the correct package and locate the Java file for the question you want to explore or solve.
