@@ -45,6 +45,7 @@ The `src` directory contains the main source code.
 4. Prime Numbers from 1 to n.
 5. Palindrome String.
 6. Reverse a String.
+7. Second Smallest Number.
 
 ## Usage
 
