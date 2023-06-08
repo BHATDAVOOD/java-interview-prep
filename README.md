@@ -22,8 +22,8 @@ java-interview-app
 │ │ ├── PalindromeStrings.java
 │ │ ├── ReverseAString.java
 │ │ └── ...
-│ ├── collections
-│ │ ├── Question1.java
+│ ├── numbers
+│ │ ├── FibonacciSeries.java
 │ │ ├── Question2.java
 │ │ └── ...
 │ └── immutable
