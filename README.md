@@ -5,8 +5,10 @@ This repository provides solutions to frequently asked Java coding questions in 
 ## Table of Contents
 
 - [Project Structure](#project-structure)
+- [Questions](#questions)
 - [Usage](#usage)
 - [Contributing](#contributing)
+
 
 
 ## Project Structure
@@ -35,6 +37,14 @@ java-interview-app
 
 
 The `src` directory contains the main source code.
+
+## Questions
+1. Maximum Number in an Array.
+2. Second Largest Number in an Array.
+3. Fibonacci Series up to n.
+4. Prime Numbers from 1 to n.
+5. Palindrome String.
+6. Reverse a String.
 
 ## Usage
 
