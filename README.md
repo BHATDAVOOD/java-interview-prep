@@ -24,7 +24,7 @@ java-interview-app
 │ │ └── ...
 │ ├── numbers
 │ │ ├── FibonacciSeries.java
-│ │ ├── Question2.java
+│ │ ├── PrimeNumbers.java
 │ │ └── ...
 │ └── immutable
 │ ├── Question1.java
