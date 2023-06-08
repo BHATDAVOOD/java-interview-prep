@@ -14,6 +14,8 @@ public class SecondLargestNumber {
     public static void main(String[] args) {
 
         int[] arr = {1,2,55,66,23,88,88,74,4,6};
+        //int[] arr1 = {1,1,1,1};
+        //int[] arr2 = {1};
         secondLargest(arr);
     }
 
@@ -24,6 +26,7 @@ public class SecondLargestNumber {
         int size = arr.length;
         if(size < 2){
             System.out.println("Array has only one element");
+            return;
         }
 
         Arrays.sort(arr);  // {1,2,4,6,23,55,66,74,88,88}
