@@ -25,7 +25,7 @@ public class ReverseAString {
             sb.append(c);
         }
 
-        System.out.println("Reversed String : "+ sb.toString());
+        System.out.println("Reversed String is : "+ sb.toString());
     }
 
 }
