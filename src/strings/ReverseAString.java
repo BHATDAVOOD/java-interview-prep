@@ -8,7 +8,6 @@ public class ReverseAString {
     * Q:- Reverse A String in Java
     * */
 
-
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
