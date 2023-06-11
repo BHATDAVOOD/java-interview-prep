@@ -46,6 +46,7 @@ The `src` directory contains the main source code.
 5. Palindrome String.
 6. Reverse a String.
 7. Second Smallest Number.
+8. Reverse all words of a String.
 
 ## Usage
 
